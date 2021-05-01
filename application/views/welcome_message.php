@@ -17,6 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
                 <h1 class="display-4">Страница welcome</h1>
                 <p class="lead">Это тестовый сайт построенный на CodeIgniter 3</p>
+                <p>репозиторий с кодом на гите <a href="https://github.com/nyosru/test_codelgniter.git" >https://github.com/nyosru/test_codelgniter.git</a></p>
                 <p class="lead">+ Маршрутизация и странички</p>
             </div>
 
